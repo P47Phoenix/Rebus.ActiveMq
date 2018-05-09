@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebus.ActiveMq", "Rebus.ActiveMq\Rebus.ActiveMq.csproj", "{313A08F7-B403-4582-8909-DB720C7D24C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebus.ActiveMqTests", "Rebus.ActiveMqTests\Rebus.ActiveMqTests.csproj", "{19DA9266-840C-40A8-A3A9-EA6C6B3C29FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{313A08F7-B403-4582-8909-DB720C7D24C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313A08F7-B403-4582-8909-DB720C7D24C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313A08F7-B403-4582-8909-DB720C7D24C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313A08F7-B403-4582-8909-DB720C7D24C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DA9266-840C-40A8-A3A9-EA6C6B3C29FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DA9266-840C-40A8-A3A9-EA6C6B3C29FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DA9266-840C-40A8-A3A9-EA6C6B3C29FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DA9266-840C-40A8-A3A9-EA6C6B3C29FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {392B2BE7-76B3-40D1-AE50-EE38A24E11D7}
+	EndGlobalSection
+EndGlobal
