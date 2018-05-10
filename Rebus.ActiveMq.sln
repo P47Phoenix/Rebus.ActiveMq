@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebus.ActiveMq", "Rebus.ActiveMq\Rebus.ActiveMq.csproj", "{313A08F7-B403-4582-8909-DB720C7D24C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rebus.ApacheActiveMq", "Rebus.ActiveMq\Rebus.ApacheActiveMq.csproj", "{313A08F7-B403-4582-8909-DB720C7D24C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebus.ActiveMqTests", "Rebus.ActiveMqTests\Rebus.ActiveMqTests.csproj", "{19DA9266-840C-40A8-A3A9-EA6C6B3C29FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rebus.Rebus.ApacheActiveMqTests", "Rebus.ActiveMqTests\Rebus.Rebus.ApacheActiveMqTests.csproj", "{19DA9266-840C-40A8-A3A9-EA6C6B3C29FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,7 +1,6 @@
-using System;
 using Xunit;
 
-namespace Rebus.ActiveMqTests
+namespace Rebus.Rebus.ApacheActiveMqTests
 {
     public class UnitTest1
     {
